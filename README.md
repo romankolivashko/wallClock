@@ -49,7 +49,7 @@ Enjoy the view of a beautiful clock.
 4. Launch index.html in any browser 
 
 ## How to access the app from the web and hear the sound of a drum
-* _Follow the link [here](https://clock-on-the-wall.netlify.app//)_ 
+* _Follow the link [here](https://clock-on-the-wall.netlify.app/) 
 ## Known Bugs
 
 * _None so far_
